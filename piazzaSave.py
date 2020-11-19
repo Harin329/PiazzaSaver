@@ -59,9 +59,3 @@ print(text)
 f = open("piazza-" + class_id + ".txt", "w+")
 f.write(text)
 f.close()
-
-
-
-
-
-
